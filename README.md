@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to asco 👋</h1>
 <p>
+  <img alt="Version" src="https://img.shields.io/badge/python-3.7-green.svg?cacheSeconds=2592000" />&nbsp;
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://raw.githubusercontent.com/rafly7/asco/master/LICENSE" target="_blank">
+  <a hrefhref="https://raw.githubusercontent.com/rafly7/asco/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
@@ -17,7 +18,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
-python asco.py -u [url] -o out.txt
+python asco.py -u [url] -o [output]
 ```
 
 ## Run tests
